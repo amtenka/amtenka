@@ -1,5 +1,6 @@
-## Hi there 👋
+### hi! i'm <b>adella</b> ૮.◜◡◝ა
 
+i'm a university of michigan alum (go blue!) and current software engineer.
 <!--
 **amtenka/amtenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
